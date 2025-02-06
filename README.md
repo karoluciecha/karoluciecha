@@ -47,7 +47,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 #
 
-###  Top Repositories
+### 🎖️ Top Repositories
 
 
 <a href="https://github.com/karoluciecha/sltzn-cpp-coursework">
