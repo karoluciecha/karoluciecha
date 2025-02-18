@@ -49,13 +49,14 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 🎖️ Top Repositories
 
-
-<a href="https://github.com/karoluciecha/sltzn-cpp-coursework">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=sltzn-cpp-coursework&theme=neon" />
-</a>
-<a href="https://github.com/HerrPrince/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerrPrince&repo=anuraghazra.github.io&theme=neon" />
-</a>
+<p align="center">
+   <a href="https://github.com/karoluciecha/sltzn-cpp-coursework">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=sltzn-cpp-coursework&theme=neon" />
+   </a>
+   <a href="https://github.com/HerrPrince/anuraghazra.github.io">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerrPrince&repo=anuraghazra.github.io&theme=neon" />
+   </a>
+</p>
 <!--
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
