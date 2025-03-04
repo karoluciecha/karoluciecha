@@ -53,8 +53,8 @@ I'm an indie full-stack developer and content creator building my version of the
    <a href="https://github.com/karoluciecha/sltzn-cpp-coursework">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=sltzn-cpp-coursework&theme=neon" />
    </a>
-   <a href="https://github.com/HerrPrince/anuraghazra.github.io">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerrPrince&repo=anuraghazra.github.io&theme=neon" />
+   <a href="https://github.com/karoluciecha/sltzn-web-coursework">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HerrPrince&repo=sltzn-web-coursework&theme=neon" />
    </a>
 </p>
 <!--
