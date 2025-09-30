@@ -56,6 +56,11 @@ I'm an indie full-stack developer and content creator building my version of the
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=web-highschool-coursework&theme=neon" />
    </a>
 </p>
+<p align="center">
+   <a href="https://github.com/karoluciecha/dotnet-maui-college-coursework">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=dotnet-maui-college-coursework&theme=neon" />
+   </a>
+</p>
 <!--
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
