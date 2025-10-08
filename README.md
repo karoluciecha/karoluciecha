@@ -1,5 +1,16 @@
-# **Karol Uciecha** <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="16"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="16"/>
-**`Code Author (Student/Developer/Creator)`**
+# <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="16"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="16"/> **Karol Uciecha** **`Code Author (Student/Developer/Creator)`**
+
+### 👋 About Me  
+
+Hey all! Welcome to my GitHub.  
+
+I’ve loved technology for as long as I can remember - exploring gadgets, discovering new software, and, of course, gaming. After finishing Technical High School in Poland with an IT Technician Diploma, I moved to Ireland to study Software Development and am now in my third year at **ATU Galway City**.  
+
+Most of the projects here come from my high school and college coursework, as well as personal projects I’ve worked on. I enjoy trying out new tools, building things from scratch, and seeing how small ideas turn into real applications.  
+
+I’m also passionate about learning new languages - both coding and spoken ones like English and French - which reflects how I approach programming: curious, persistent, and always ready to learn something new.  
+
+I’m currently looking for a **placement or internship starting January 2026**, where I can get hands-on experience, work with others, and keep improving as a developer.
 
 ---
 ### 🧩 Languages & Technologies  
@@ -29,6 +40,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
 ---
 
