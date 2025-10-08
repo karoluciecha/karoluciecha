@@ -1,9 +1,7 @@
 # <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="16"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="16"/> **Karol Uciecha** <img src="https://img.shields.io/badge/Code%20Author-Student%2FDeveloper%2FCreator-24292f?style=flat&logoColor=white">
 
 
-### 👋 About Me  
-
-Hey all! Welcome to my GitHub.  
+### 👋 Hey all! Welcome to my GitHub.  
 
 I’ve loved technology for as long as I can remember - exploring gadgets, discovering new software, and, of course, gaming. After finishing Technical High School in Poland with an IT Technician Diploma, I moved to Ireland to study Software Development and am now in my third year at **ATU Galway City**.  
 
