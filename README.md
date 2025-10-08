@@ -1,4 +1,5 @@
-# <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="16"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="16"/> **Karol Uciecha** **`Code Author (Student/Developer/Creator)`**
+# <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="16"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg" height="16"/> **Karol Uciecha** <img src="https://img.shields.io/badge/Code%20Author-Student%2FDeveloper%2FCreator-24292f?style=flat&logoColor=white">
+
 
 ### 👋 About Me  
 
