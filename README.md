@@ -58,16 +58,16 @@ I’m currently looking for a **placement or internship starting January 2026**,
       <a href="https://github.com/karoluciecha/java-college-coursework">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=java-college-coursework&theme=neon" />
    </a>
-   <a href="https://github.com/karoluciecha/dotnet-maui-college-coursework">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=dotnet-maui-college-coursework&theme=neon" />
+   <a href="https://github.com/karoluciecha/web-college-coursework">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=web-college-coursework&theme=neon" />
    </a>
 </p>
 
 <p align="center">
-   <a href="https://github.com/karoluciecha/cpp-highschool-coursework">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=cpp-highschool-coursework&theme=neon" />
+   <a href="https://github.com/karoluciecha/c-college-coursework">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=c-college-coursework&theme=neon" />
    </a>
-   <a href="https://github.com/karoluciecha/web-highschool-coursework">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=web-highschool-coursework&theme=neon" />
+   <a href="https://github.com/karoluciecha/dotnet-maui-college-coursework">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karoluciecha&repo=dotnet-maui-college-coursework&theme=neon" />
    </a>
 </p>
